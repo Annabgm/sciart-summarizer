@@ -1,0 +1,7 @@
+pandas
+streamlit
+langchain-openai
+langchain-community
+langchain-text-splitters
+langgraph
+pypdf
