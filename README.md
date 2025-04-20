@@ -14,7 +14,7 @@ Scientific Article Summarizer
 
 ---
 
-## Thecniqal details
+## Technical details
 - The solution uses `LangChain` as the main framework for interacting with the OpenAI LLM model. 
 - The `citeproc` library is responsible for formatting citations. Additional citation styles can be added as needed.
 - For greater flexibility, runtime configuration is used in the graph to control the length of the summary.
